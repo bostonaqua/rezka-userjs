@@ -5,8 +5,9 @@
 // @copyright       2019, BostonAqua (https://openuserjs.org/users/BostonAqua)
 // @license         GPL-3.0-or-later; http://www.gnu.org/licenses/gpl-3.0.txt
 // @icon            https://rezka.ag/templates/hdrezka/images/favicon.ico
-// @homepageURL     https://rezka.ag/
-// @version         1.0.1
+// @homepageURL     https://github.com/bostonaqua/rezka-userjs
+// @updateURL       https://openuserjs.org/meta/BostonAqua/My_Script.meta.js
+// @version         1.0.2
 // @match           https://streamguard.cc/*
 // @grant none
 // ==/UserScript==
