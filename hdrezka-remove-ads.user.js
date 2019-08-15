@@ -6,8 +6,8 @@
 // @license         GPL-3.0-or-later; http://www.gnu.org/licenses/gpl-3.0.txt
 // @icon            https://rezka.ag/templates/hdrezka/images/favicon.ico
 // @homepageURL     https://github.com/bostonaqua/rezka-userjs
-// @updateURL       https://openuserjs.org/meta/BostonAqua/My_Script.meta.js
-// @version         1.0.2
+// @updateURL       https://github.com/bostonaqua/rezka-userjs/raw/master/hdrezka-remove-ads.user.js
+// @version         1.0.3
 // @match           https://streamguard.cc/*
 // @grant none
 // ==/UserScript==
@@ -23,7 +23,7 @@
     video_balancer.onPlayButtonClick = function () {
       document.getElementById("play_button").remove();
       video_balancer.adv_loader = function () {
-        console.log("yahoo");
+        console.log("AdsRemoved");
       };
       video_balancer.onAdvLoaderDone();
     };
