@@ -1,5 +1,6 @@
 // ==UserScript==
 // @name            HDRezka Player Ads Disabler
+// @namespace       https://github.com/bostonaqua
 // @description     Disables ads in the video player on the HDRezka website
 // @description:ru  Отключает рекламу в видео плеере на сайте HDRezka
 // @copyright       2019, BostonAqua (https://openuserjs.org/users/BostonAqua)
@@ -7,7 +8,7 @@
 // @icon            https://rezka.ag/templates/hdrezka/images/favicon.ico
 // @homepageURL     https://github.com/bostonaqua/rezka-userjs
 // @updateURL       https://github.com/bostonaqua/rezka-userjs/raw/master/hdrezka-remove-ads.user.js
-// @version         1.0.3
+// @version         1.0.4
 // @match           https://streamguard.cc/*
 // @grant none
 // ==/UserScript==
