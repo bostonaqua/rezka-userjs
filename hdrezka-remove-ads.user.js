@@ -8,7 +8,7 @@
 // @icon            data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAC+0lEQVRo3u2YLYiiQRjHtxhcMZjW4jaxu8kqdovBcCIYNgkmF7sgtsOyUdkkC4dhPQyXDi1e8ZJgstnEcMHjTte5+cl4rK/vOy5+rArzwB91Z57Z+c88n3N1ZcSIESNGjBg5sQgh7iSKEp8teJC42aJX1unJT4/Evc0cHdhLWq3v2bZ5l8Rzr9dbVKtVscLT05MYjUZ/5VhWo/el2+0KnZ78jI3H4z/1en1tnhOY12q1BPuZTCZjqf9NIulIRA5cM6lQKAh+ruByuUSz2RScsIMeJ/s9l8s56RXVvORgMHj1+/1r83RgDZ/PJyKRiKhUKqsDqdlawzkSsCIajS5vBEvZIHEJBEA4HBb9fv9V+Yfr5AQCgYBIJBIb4LQZsyPB+HQ6Hck1IycnkEqlxGw2+z2fzweLxeIn4DsbZD778Xq9azput1s0Gg2h/MF1cgJsWo6HJHzYtgK/sxDJ5/O6WwjtS+D6QAR8DutnsXmrObGO8oXkewnUVEKJWBBjA0ckcItJceLW9ZUZlbcSICmRhGQc/mUHxjKZzLEIkCi/lkqlDTPibyTRpR84EVhdVzAY1IKEcwwCSveR7GzdF7eO+S51dQR2wYEJlDEX1nTQvTl3AkXqIjsC+Ad+oiVAHMZEdLAufugbYK2dbgAlCilCFnWIE+yixCF9gECi8QHPe8LoiypnrUhzjUcMo0Shl52j0Bkksv3zwAeVEk4E7tE7RCb+cALUOYzZmc8ha6G9CahQGFEFXEiVLJ/k5n8QPq06rE1iU43NaatRTpJShL73LZhL9LPrCWgxVXsZP3k/QA6hy7KCjVvj/ionKed9XmvwL6GlpJHBH5TJ3V1UT8yNYFLKcePaVwn+OWwBV4YjbSNA1+Sgt0aAynU1Rwf0IYs5sSeyPU5N/6F72HocDoei3W6LTqfzHzgZGVejV9umR5Th9HgAs86zA/OI8zi02vjDsmjb8jp3S/hST4BvEdc97Sm9tE5PEY3ZzNEhqUKqzzz8GjFixIgRI+cs/wDugYdHEUnwsQAAAABJRU5ErkJggg==
 // @homepageURL     https://github.com/bostonaqua/rezka-userjs
 // @updateURL       https://github.com/bostonaqua/rezka-userjs/raw/master/hdrezka-remove-ads.user.js
-// @version         1.0.4
+// @version         1.0.5
 // @match           https://streamguard.cc/*
 // @grant none
 // ==/UserScript==
